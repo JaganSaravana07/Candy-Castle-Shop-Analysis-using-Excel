@@ -19,7 +19,9 @@ This Excel dashboard provides a comprehensive overview of Candy Castle’s sales
 - Performance Metrics: Displays total orders, total revenue, average delivery time, and average customer spend at a glance.
 
 ## Dashboard Sections
+
 <img width="760" alt="Dashboard" src="https://github.com/user-attachments/assets/be5e3da5-31e9-4ae6-ba3f-ef4422d3fb7f" />
+
 ### 1. Top Metrics
 
 - Total Orders (1000): The overall count of orders placed within the selected time frame.
